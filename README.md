@@ -1,4 +1,4 @@
-#Git init CLI
+# Git init CLI
 
 A tool to initialise new Git repositories from the command line.
 
